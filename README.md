@@ -9,8 +9,7 @@
 <p align="center">
   <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZGF0YSUyMHNjaWVuY2V8ZW58MHx8MHx8fDA%3D" width="250" height="250" style="border-radius:80%;" />
 </p>
-
-# 👋 Hello, I'm Rediet Abay!  
+ 
 ### 🎓 2nd-year Data Science Student | 📊 Aspiring Data Scientist  
 
 🔍 Passionate about **Machine Learning, Big Data, and AI**  
