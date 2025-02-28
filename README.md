@@ -35,19 +35,10 @@
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight" width="400"/>
-</p>
+</p> 
 
 ---
 
-## 🚀 Connect with Me  
-📬 **Email:** [rediet439@gmail.com]  
-📬 **Email:** [abayrediet7@gmail.com] 
-🔗 **telegram:** [https://t.me/Redu12robi]  
-💼 **LinkedIn:** [www.linkedin.com/in/abayrediet12]  
-
----
-
-⭐ **If you like my profile, consider following me!** 😊
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
@@ -69,7 +60,7 @@
 </div>
 
 ###
-
+## 🚀 Connect with Me 
 <div align="left">
   <a href="abayrediet7@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -84,4 +75,5 @@
 
 ###
   
+⭐ **If you like my profile, consider following me!** 😊
 
